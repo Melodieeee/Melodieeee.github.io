@@ -76,10 +76,10 @@ This is sample alert with type=&amp;quot;success&amp;quot;. This is sample alert
     
     <item>
       <title>Go বেসিক</title>
-      <link>http://localhost:1313/notes/go/basic/_index.bn/</link>
+      <link>http://localhost:1313/notes/go/basic/_index.tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/go/basic/_index.bn/</guid>
+      <guid>http://localhost:1313/notes/go/basic/_index.tw/</guid>
       <description></description>
     </item>
     
@@ -110,10 +110,10 @@ var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays //
     
     <item>
       <title>অ্যাডভান্সড</title>
-      <link>http://localhost:1313/notes/go/advanced/_index.bn/</link>
+      <link>http://localhost:1313/notes/go/advanced/_index.tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/go/advanced/_index.bn/</guid>
+      <guid>http://localhost:1313/notes/go/advanced/_index.tw/</guid>
       <description></description>
     </item>
     
@@ -146,56 +146,56 @@ var u uint = 7 // uint (unsigned) var p float32 = 22.7 // 32-bit float Arrays //
     
     <item>
       <title>Go এর নোট সমূহ</title>
-      <link>http://localhost:1313/notes/go/_index.bn/</link>
+      <link>http://localhost:1313/notes/go/_index.tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/go/_index.bn/</guid>
+      <guid>http://localhost:1313/notes/go/_index.tw/</guid>
       <description>Go Notes </description>
     </item>
     
     
     <item>
       <title>Sub-Category</title>
-      <link>http://localhost:1313/posts/category/sub-category/_index.bn/</link>
+      <link>http://localhost:1313/posts/category/sub-category/_index.tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/category/sub-category/_index.bn/</guid>
+      <guid>http://localhost:1313/posts/category/sub-category/_index.tw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Top Category Sample</title>
-      <link>http://localhost:1313/posts/category/_index.bn/</link>
+      <link>http://localhost:1313/posts/category/_index.tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/category/_index.bn/</guid>
+      <guid>http://localhost:1313/posts/category/_index.tw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>নোট সমূহ</title>
-      <link>http://localhost:1313/notes/_index.bn/</link>
+      <link>http://localhost:1313/notes/_index.tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/_index.bn/</guid>
+      <guid>http://localhost:1313/notes/_index.tw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>পোস্ট সমূহ</title>
-      <link>http://localhost:1313/posts/_index.bn/</link>
+      <link>http://localhost:1313/posts/_index.tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/posts/_index.bn/</guid>
+      <guid>http://localhost:1313/posts/_index.tw/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ব্যাশের নোট সমূহ</title>
-      <link>http://localhost:1313/notes/bash/_index.bn/</link>
+      <link>http://localhost:1313/notes/bash/_index.tw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/notes/bash/_index.bn/</guid>
+      <guid>http://localhost:1313/notes/bash/_index.tw/</guid>
       <description>Bash Notes </description>
     </item>
     
